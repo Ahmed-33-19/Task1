@@ -6,3 +6,4 @@
 ## The temperature sensor
 ### It is used to sense the temperature of the house 
 ### The treminal that called power had been connected to vcc(5v of aurdino) , the treminal that called vout will be connected to A0 (analogread) and the GND treminal had been connected to ground
+[image of buzzar and sensor](1.jpeg)
